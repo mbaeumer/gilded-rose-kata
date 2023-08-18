@@ -1,3 +1,5 @@
+# Background, context and requirements
+
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime location in a
 prominent city ran by a friendly innkeeper named Allison. We also buy and sell only the finest goods.
 Unfortunately, our goods are constantly degrading in quality as they approach their sell by date. We
@@ -29,3 +31,17 @@ ownership (you can make the UpdateQuality method and Items property static if yo
 for you).
 
 Just for clarification, an item can never have its Quality increase above 50, however "Sulfuras" is a legendary item and as such its Quality is 80 and it never alters.
+
+# Technical notes
+The code is available in four languages: CSharp, JS, Python and Java.<br>
+## CSharp
+Use .Net Core 7.0
+
+## JS
+npm is required to run the tests
+
+## Python
+Use Python 3
+
+## Java
+Use Java 20
